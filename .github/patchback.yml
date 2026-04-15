@@ -1,2 +1,2 @@
-signed_commits: true
+signed_commits: false
 target_branch_prefix: "stable-"
