@@ -1,0 +1,1 @@
+Fourth test - create_signed_branch with temp ref deleted in git_cli
